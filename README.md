@@ -8,6 +8,33 @@ Features include an online IDE with a console, the ability to translate your cod
 
 <br>
 
+## 🍎 Get It Started
+
+Install the dependencies using npm
+```shell
+npm install
+```
+
+Start the local development server
+```shell
+npm start
+```
+
+Create and activate the virtual enviornment
+```shell
+cd flask-server
+python3 -m venv venv
+source venv/bin/activate
+```
+
+Run the backend server
+```shell
+python3 server.py
+```
+
+Use the French keywords and functions below and get coding!
+
+
 ## JavaScript Keywords
       
 
@@ -93,3 +120,4 @@ Features include an online IDE with a console, the ability to translate your cod
 | `enMiniscule` | toLowerCase |
 | `enMajuscule` | toUpperCase |
 | `valeurDe` | valueOf |
+
