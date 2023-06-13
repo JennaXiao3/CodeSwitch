@@ -6,8 +6,6 @@ Code JavaScript in a language you are more comfortable with!
 Currently, Spanish and French are supported.
 Features include an online IDE with a console, the ability to translate your code to English, and a way to download your files after you are done!
 
-<br>
-
 ## 🍎 Get It Started
 
 Install the dependencies using npm
