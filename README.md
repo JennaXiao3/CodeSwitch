@@ -30,7 +30,7 @@ Run the backend server
 python3 server.py
 ```
 
-Use the French keywords and functions below and get coding!
+Use the French keywords and functions below and get coding! (Spanish is supported, but keywords/functions have not been updated on the ReadMe yet)
 
 
 ## JavaScript Keywords
