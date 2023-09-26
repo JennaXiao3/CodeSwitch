@@ -1,10 +1,18 @@
 # Welcome to CodeSwitch
 
-See a demo here: https://devpost.com/software/codeswitch
+See a demo [here](https://youtu.be/IhgPMYOuMS4?si=hTZ6yYtVgR4W5OUo&t=28)
 
 Code JavaScript in a language you are more comfortable with!
 Currently, Spanish and French are supported.
 Features include an online IDE with a console, the ability to translate your code to English, and a way to download your files after you are done!
+
+## 🥇 Second Place at Hackathon
+
+Was submitted to Hack the Woodz Hackathon and won Second Place Web Dev Prize! Find out more [here](https://devpost.com/software/students-to-students-tutoring-website)
+
+## 📝 Technologies Used
+
+<img src="https://www.bairesdev.com/wp-content/uploads/2021/08/Flask-1.svg" width="100px" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://camo.githubusercontent.com/e84431cfbd9f7c44b1c20da1dde8ad407cbc31174844a428074d1e3b43faab8b/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f72656163742f72656163742d6f726967696e616c2d776f72646d61726b2e737667" width="100px" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" width="100px" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="100px" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://codemirror.net/style/logo.svg" width="100px" />
 
 ## 🍎 Get It Started
 
